@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\bin\Debug\net7.0\Find The Missing Letter.exe
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\bin\Debug\net7.0\Find The Missing Letter.deps.json
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\bin\Debug\net7.0\Find The Missing Letter.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\bin\Debug\net7.0\Find The Missing Letter.dll
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\bin\Debug\net7.0\Find The Missing Letter.pdb
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.dll
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\refint\Find The Missing Letter.dll
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.pdb
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\Find The Missing Letter.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Find The Missing Letter\Find The Missing Letter\obj\Debug\net7.0\ref\Find The Missing Letter.dll
