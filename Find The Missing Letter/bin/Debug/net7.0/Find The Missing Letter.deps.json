@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Find The Missing Letter/1.0.0": {
+        "runtime": {
+          "Find The Missing Letter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find The Missing Letter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
